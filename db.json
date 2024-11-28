@@ -1,0 +1,12 @@
+{
+    "id": 2001,
+    "color": "green",
+    "image": "https://my-json-server.typicode.com/Chaimadebchi/exercice/assets/images/socks_green.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 2002,
+    "color": "blue",
+    "image": "https://my-json-server.typicode.com/Chaimadebchi/exercice/assets/images/socks_blue.jpg",
+    "quantity": 5
+}
